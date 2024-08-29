@@ -3,18 +3,7 @@
   <entry>
     <title>world</title>
     <url>/website/2024/08/27/world/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="9a1f2935188a28be33556c8388163dd9a43298c7dc2dfb356e3687a33dddfdeb">55b2803ebc192d0c2b188487861950f5443e72d3abf9f56ab84cc9308d5a47077bc673dde7aba03c19ee714ed2ca5a86a5f50d5824bac6af12e8de0cc3cc5226</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-swup-reload-script src="/website/lib/hbe.js"></script><link href="/website/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    <content><![CDATA[<p>这是第一篇文章，测试</p>
+]]></content>
   </entry>
 </search>
