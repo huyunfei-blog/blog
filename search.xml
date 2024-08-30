@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>world</title>
+    <title>2024规划</title>
     <url>/website/2024/08/27/world/</url>
-    <content><![CDATA[<p>这是第一篇文章，测试</p>
-]]></content>
-      <categories>
-        <category>abc</category>
-        <category>ded</category>
-      </categories>
-      <tags>
-        <tag>dame</tag>
-        <tag>cbd</tag>
-      </tags>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="3f8f4b8c588310e13abdd5651764ece9ba4f8e0a87aa34b4ef9cd9bfa3d339b1">acb34a0a19a7997d9268c840e3d6bbc5e52b2fc6cb09ec62991beab92e51291b</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-swup-reload-script src="/website/lib/hbe.js"></script><link href="/website/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
   </entry>
 </search>
