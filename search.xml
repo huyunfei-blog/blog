@@ -140,8 +140,6 @@
 <p>可以通过下面这种方式，实现热加载。</p>
 <div class="highlight-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="string">//</span> <span class="string">安装插件实现热加载，然后正常启动即可</span></span><br><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">--save-dev</span> <span class="string">nodemon</span></span><br><span class="line"></span><br><span class="line"><span class="string">//</span> <span class="string">根目录创建nodemon.json配置文件</span></span><br><span class="line">&#123;</span><br><span class="line">  <span class="attr">&quot;watch&quot;:</span> [<span class="string">&quot;_config.yml&quot;</span>, <span class="string">&quot;_config.*.yml&quot;</span>],</span><br><span class="line">  <span class="attr">&quot;exec&quot;:</span> <span class="string">&quot;hexo s&quot;</span>,</span><br><span class="line">  <span class="attr">&quot;ext&quot;:</span> <span class="string">&quot;yml&quot;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="string">//</span> <span class="string">启动Hexo服务器</span></span><br><span class="line"><span class="string">npx</span> <span class="string">nodemon</span></span><br></pre></td></tr></table></figure></div>
 
-
-
 <h1 id="修改hexo默认生成的md文件格式"><a href="#修改hexo默认生成的md文件格式" class="headerlink" title="修改hexo默认生成的md文件格式"></a>修改hexo默认生成的md文件格式</h1><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo new post “博客名称”</span><br></pre></td></tr></table></figure></div>
 
 <p>上述命令可以生成一个博客，也就是在_posts文件夹下，生成一个md文件。默认会有一些抬头，比如文件名称和时间字段。</p>
