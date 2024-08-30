@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/google9f1d8edbfa881460.html</loc>
+    <loc>https://huyunfei-blog.github.io/website/about/index.html</loc>
     
     <lastmod>2024-08-30</lastmod>
     
@@ -14,15 +14,6 @@
     <loc>https://huyunfei-blog.github.io/website/2024/08/27/world/</loc>
     
     <lastmod>2024-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://huyunfei-blog.github.io/website/about/index.html</loc>
-    
-    <lastmod>2024-08-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
