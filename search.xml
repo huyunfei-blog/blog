@@ -129,7 +129,7 @@
                       alt="image-20240830135456833"
                 ></p>
 <p>这个时候你再插入图片，就从**..&#x2F;images&#x2F;(文章名字)&#x2F;(图片名字)<strong>变成了</strong>&#x2F;images&#x2F;(文章名字)&#x2F;(图片名字)**，图片也可以正常显示了。</p>
-<p>然后你的文章的抬头，会多一个typora-root-url，这个意思就是图片的根目录修改。（实际上，你直接把这一句加在文章抬头里就可以了，也不需要typora的按钮设置，它们是一回事）</p>
+<p>然后你的文章的抬头，会多一个typora-root-url，这个意思就是图片的根目录修改。</p>
 <p><img  
                      lazyload
                      src="/images/loading.svg"
